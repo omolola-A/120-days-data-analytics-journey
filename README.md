@@ -1,7 +1,5 @@
 # 120-days-data-analytics-journey
 
-## 120-Day Data Analytics Challenge
-
 Documenting my journey building real-world data analytics projects.
 
 ### Progress Log
