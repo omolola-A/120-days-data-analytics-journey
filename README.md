@@ -2,6 +2,8 @@
 
 Documenting my journey building real-world data analytics projects.
 
+![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/WhatsApp%20Image%202026-02-10%20at%2012.20.11%20PM.jpeg)
+
 ### Progress Log
 
 | Day | Focus | Link |
