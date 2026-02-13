@@ -12,4 +12,6 @@ Documenting my journey building real-world data analytics projects.
 | Day 02 | Building a Data Portfolio that Stands Out | [View Reflection](Day-02-Strong-Portfolio-Review/reflection.md) |
 | Day 03 | Applying the Analytics Lifecycle to a Past Project | [View Reflection](Day-03-Analytics-Process) |
 | Day 04 | Skill Depth Audit | [View Reflection](Day-04-Skills%20Audit) |
+| Day 05 | Portfolio Strategy | [View Reflection](Day-05-Portfolio%20Strategy) |
+
 
