@@ -1,6 +1,6 @@
 ## Day 9 – Guided Excel Project (Analysis & Dashboard Build)
  
-<p align="center">
+<p>
   <img src="https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day9Img1.png" width="45%" />
   <img src="https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day9Img2.png" width="45%" />
 </p>
