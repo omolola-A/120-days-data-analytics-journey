@@ -13,5 +13,8 @@ Documenting my journey building real-world data analytics projects.
 | Day 03 | Applying the Analytics Lifecycle to a Past Project | [View Reflection](Day-03-Analytics-Process) |
 | Day 04 | Skill Depth Audit | [View Reflection](Day-04-Skills%20Audit) |
 | Day 05 | Portfolio Strategy | [View Reflection](Day-05-Portfolio%20Strategy) |
+| Day 08 | Guided Excel Project | [View Reflection](Day-08-Work%20on%20a%20Guided%20Excel%20Project) |
+| Day 09 | Guided Excel Project Continues | [View Reflection](Day-09-Guided%20Excel%20Project) |
+
 
 
