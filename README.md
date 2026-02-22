@@ -16,5 +16,5 @@ Documenting my journey building real-world data analytics projects.
 | Day 08 | Guided Excel Project | [View Reflection](Day-08-Work%20on%20a%20Guided%20Excel%20Project) |
 | Day 09 | Guided Excel Project Continues | [View Reflection](Day-09-Guided%20Excel%20Project) |
 | Day 10 | Guided Excel Project Continues | [View Reflection](Day-10-Guided%20Excel%20Project%20(Dashboard%20Build)) |
-
+| Day 11 | Guided Excel Project Completed | [View Reflection](Day-11-Guided%20Excel%20Project%20Completed)) |
 
