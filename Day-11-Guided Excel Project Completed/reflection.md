@@ -14,4 +14,4 @@ Looking back at my earlier Excel work, this feels more intentional. Next step is
 
 Filtered Dashboard
 
-![](https://github.com/omolola-A/120-days-data-analytics-journey/tree/main/Day-11-Guided%20Excel%20Project%20Completed)
+![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day11_Img.png)
