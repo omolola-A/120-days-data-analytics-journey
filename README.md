@@ -17,4 +17,5 @@ Documenting my journey building real-world data analytics projects.
 | Day 09 | Guided Excel Project Continues | [View Reflection](Day-09-Guided%20Excel%20Project) |
 | Day 10 | Guided Excel Project Continues | [View Reflection](Day-10-Guided%20Excel%20Project%20(Dashboard%20Build)) |
 | Day 11 | Guided Excel Project Completed | [View Reflection](Day-11-Guided%20Excel%20Project%20Completed) |
-
+| Day 15 |San Martin’s Stores Analysis | [View Reflection](Day-15-San%20Martin's%20Stores%20Analysis) |
+| Day 16 | San Martin’s Stores Analysis Continues | [View Reflection](Day_16-San%20Martin%20Stores%20Analysis_Continues) |
