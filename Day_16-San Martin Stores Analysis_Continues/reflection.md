@@ -1,6 +1,10 @@
 ## Day 16 – San Martin Stores Analysis (Time Intelligence Challenge)
 
+---
+
 ![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day16_IMG1.png)
+
+---
 
 Today I continued working on the San Martin Stores project, and this dataset forced me to think differently.
 
@@ -16,6 +20,10 @@ What looked simple at first turned into a deeper modeling exercise.
 
 I’m starting to see that time intelligence isn’t just about functions — it’s about structuring the date table correctly from the beginning.
 
+---
+
 ![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day16_IMG.png)
+
+---
 
 Next step: test these measures across different visuals to make sure the logic holds.
