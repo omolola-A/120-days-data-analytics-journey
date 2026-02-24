@@ -6,17 +6,17 @@ Today I applied the 5 stages of the analytics lifecycle to one of my previous pr
 
 The five stages I reviewed:
 
-Define the question (business goal, KPIs, objectives)
+* Define the question (business goal, KPIs, objectives)
 
-Collect the data
+* Collect the data
 
-Clean the data
+* Clean the data
 
-Analyze the data
+* Analyze the data
 
-Share results effectively
+* Share results effectively
 
-When I evaluated my Adidas project against this structure, I noticed clear gaps.
+When I evaluated my Adidas project against this structure, I noticed clear gaps: 
 
 The dashboards were visually structured (Home, Product, Trend Analysis, Deep Insight), but the analysis did not start with a defined business problem. There was no explicit objective, no stated KPIs, and no explanation of what decision the analysis was meant to support. The work focused on generating insights, but not on solving a clearly framed problem.
 
@@ -24,12 +24,12 @@ Documentation was also limited. I uploaded the dashboards, but did not properly 
 
 Key Gap Identified:
 
-No problem statement
+* No problem statement
 
-No defined business objective
+* No defined business objective
 
-Limited documentation
+* Limited documentation
 
-Insights not tied to decision-making
+* Insights not tied to decision-making
 
 Next step: Refactor this project starting from Stage 1 — clearly define the business question, align insights with measurable objectives, and improve documentation so the analysis communicates intent, not just visuals.
