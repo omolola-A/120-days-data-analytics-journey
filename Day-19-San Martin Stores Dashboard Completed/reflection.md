@@ -6,7 +6,7 @@ Today I completed the San Martin Stores analysis dashboard.
 
 I finalized the remaining charts, connected all slicers properly, and made sure the interactions worked across the entire report. What started as a messy multi-table dataset is now a structured model feeding a fully interactive dashboard.
 
-** Key insights: **
+Key insights: 
 
 * All transactions occurred in January 2021.
 
