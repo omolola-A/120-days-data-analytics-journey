@@ -1,6 +1,6 @@
 ## Day 24 – Customer Product Demand Analysis
 
-#[](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day_24.png)
+![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day_24.png)
 
 Today I spent time reviewing the Customer Product Demand dashboard and digging deeper into the operational story behind the numbers.
 
