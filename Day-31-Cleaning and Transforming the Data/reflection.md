@@ -1,6 +1,6 @@
 ## Day 31/120 – Cleaning and Transforming the Data
 
-![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day10_Img.png)
+![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day-31.png)
 
 Today’s focus was on preparing the data while constantly referring back to the business request, the business demand overview, and the user stories from the previous step.
 
