@@ -78,3 +78,5 @@ Feature: Ability to filter by Product Category and Sub-category.
 * Market Leadership: London and Paris consistently lead as the top-performing cities across all three years.
 
 * Seasonality: A recurring sales surge is visible starting in July, peaking in December, suggesting strong year-end demand.
+
+PowerBi Link: https://app.powerbi.com/links/XDyJaNHIvP?ctid=f3dd754b-d19f-4c2c-9144-105b4d4cad00&pbi_source=linkShare
