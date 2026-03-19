@@ -27,7 +27,7 @@ The Sales Manager requested a shift toward visual reporting to better understand
 ## 🗄️ 2. Data Cleansing & Transformation (SQL)
 To ensure the data was "ready for BI," I performed extensive cleansing in MySQL. This involved filtering out unnecessary columns and renaming fields for better readability in Power BI.
 
-** Key Steps: **
+**Key Steps:**
 
 * Fact vs. Dimension Identification: Segregated core transaction data (FACT_InternetSales) from descriptive attributes (DIM_Products, DIM_Customers, DimCalendar).
 
@@ -48,7 +48,7 @@ Measures Table: Created a dedicated key_measures table to house all DAX calculat
 ## 📊 4. The Dashboard (Visual Analysis)
 The final solution consists of three specialized report pages:
 
-** I. Sales Overview **
+**I. Sales Overview**
 
 ![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day-32.png)
 
@@ -58,14 +58,14 @@ Insight: In 2021, the company exceeded its $21.1M budget by $1.14M.
 
 Insight: The "Bikes" category accounts for over 95% of total revenue.
 
-** II. Customer Details ** 
+**II. Customer Details** 
 A deep dive into demographics and purchasing patterns.
 
 Feature: Includes gender distribution and a "Top 10 Customers" bar chart to identify high-value clients.
 
 ![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day-33.png)
 
-III. Product Details
+**III. Product Details**
 Focused on inventory and product-line performance.
 
 Feature: Ability to filter by Product Category and Sub-category.
