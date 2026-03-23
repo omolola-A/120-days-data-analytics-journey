@@ -25,3 +25,11 @@ Documenting my journey building real-world data analytics projects.
 | Day 22 | Product Demand Analysis | [View Reflection](Day-22-Product%20Demand) |
 | Day 23 |Product_Demand_Dashboard | [View Reflection](Day-23-Customer_Product_Demand_Dashboard) |
 | Day 24 | Product_Demand_Dashboard Continues | [View Reflection](Day-24%20%E2%80%93%20Customer%20Product%20Demand) |
+| Day 25 | Revenue Volatility | [View Reflection](Day-25-Revenue%20Volatility%20in%20B2B%20Distribution) |
+| Day 26 | Lessons Challenge | [View Reflection](Day-26-Lessons%20from%20the%20Challenge) |
+| Day 29 | SQL Guilded Project | [View Reflection](Day-29-%20SQL-guided%20project%20analyzing%20Kickstarter%20campaigns) |
+| Day 30 | Creating Portifolio | [View Reflection](Day-30-Data%20Analyst%20Portfolio%20Project%20%E2%80%93%20Power%20BI%20%26%20SQL) |
+| Day 31 | Clean and Transformation | [View Reflection](Day-31-Cleaning%20and%20Transforming%20the%20Data) |
+| Day 32 | Dashboard with PowerBI | [View Reflection](Day-32-From%20Clean%20Data%20to%20First%20Dashboard) |
+| Day 33 | PowerBi & SQL Project | [View Reflection](Day-33-End-to-End%20Power%20BI%20%26%20SQL%20Project) |
+| Day 34 | Danny's Diner | [View Reflection](Day-34-Danny%E2%80%99s_Diner_Case_Study) |
