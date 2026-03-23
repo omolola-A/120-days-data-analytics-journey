@@ -19,3 +19,9 @@ Documenting my journey building real-world data analytics projects.
 | Day 11 | Guided Excel Project Completed | [View Reflection](Day-11-Guided%20Excel%20Project%20Completed) |
 | Day 15 |San Martin’s Stores Analysis | [View Reflection](Day-15-San%20Martin's%20Stores%20Analysis) |
 | Day 16 | San Martin’s Stores Analysis Continues | [View Reflection](Day_16-San%20Martin%20Stores%20Analysis_Continues) |
+| Day 17 | San Martin’s Stores Analysis Continues | [View Reflection](Day_17_San%20Martin%20Stores%20Analysis) |
+| Day 18 | San Martin’s Stores Analysis Continues | [View Reflection](Day-18-San%20Matins-Dashboard%20Build%20in%20Progress) |
+| Day 19 | San Martin’s Stores Analysis Completed | [View Reflection](Day-19-San%20Martin%20Stores%20Dashboard%20Completed) |
+| Day 22 | Product Demand Analysis | [View Reflection](Day-22-Product%20Demand) |
+| Day 23 |Product_Demand_Dashboard | [View Reflection](Day-23-Customer_Product_Demand_Dashboard) |
+| Day 24 | Product_Demand_Dashboard Continues | [View Reflection](Day-24%20%E2%80%93%20Customer%20Product%20Demand) |
