@@ -31,9 +31,9 @@ For example, calculating preparation time meant carefully defining:
 * Working with averages and percentages
 * Making sure the filters didn’t distort the results
 
-I had to pause multiple times to rethink the logic before even writing the queries.
+**I had to pause multiple times to rethink the logic before even writing the queries.**
 
-Key insight:
+**Key insight:**
 
 * One interesting finding came from analyzing the relationship between the number of pizzas and preparation time.
 
@@ -45,7 +45,7 @@ This was a good reminder that:
 
 * Data can show a trend, but it doesn’t always explain the full story.
 
-Reflection:
+**Reflection:**
 
 This part felt like a shift from just “writing SQL” to actually thinking like an analyst—interpreting vague questions, defining metrics carefully, and being mindful of how assumptions affect results.
 
