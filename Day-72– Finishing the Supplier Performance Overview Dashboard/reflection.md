@@ -14,6 +14,6 @@ That part reminded me that building dashboards is not always about following the
 
 This project has been less about “making charts” and more about learning how modeling, calculations, design, and problem-solving all connect together in reporting.
 
-![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day-42.png)
+![](https://github.com/omolola-A/120-days-data-analytics-journey/blob/main/Day-41b.png)
 
 Next step: continue refining the dashboard and improving the storytelling side of the report.
